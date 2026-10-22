@@ -1,0 +1,53 @@
+T&S Garden Restoration: design preview by Dusk (built 22 October 2026)
+
+Business's own material
+  Name, wording and contact details: the business's Facebook page,
+    facebook.com/p/TS-Garden-Restoration-100063968177060/ (112 followers), read 22 October 2026.
+    "We are a small Garden Restoration and Maintenance buisness we offer a large range of services",
+    areas listed: Lismore, Casino, Kyogle, Alstonville. Phone 0408 469 498,
+    email TSGardenRestoration@gmail.com.
+  Their own posts quoted on the page, word for word:
+    30 April 2025: "Nice quick clean up a beautiful fresh start"
+    14 October 2024: "Before and after clean ups I love my job"
+    27 June 2025: "Been a while since some new pics so here we go"
+  Green waste removal: from a Facebook post seen only as a Google search snippet
+    ("trailer of greenwaste removal ..."). The price in that snippet is not used.
+  Google listing "T & S Garden Restoration" (Landscaper, Albert Pl, Alstonville NSW 2477),
+    maps.google.com/?cid=6476057411238066972: hours Monday to Friday 9 am to 4 pm, Saturday and
+    Sunday closed; services listed: gardening services, landscaping maintenance, lawn care.
+    The street is not shown on the page (it may be a home address); the directions link opens
+    their own Google listing.
+  Review: the listing's one review (5 stars, Helen Rankin Jarvie, about three years old).
+    Three of its sentences are quoted word for word; the page names her "Helen R. J.".
+  Logo: the Facebook profile picture (647 px), traced to vector with potrace:
+    assets/brand/logo.svg (their colours), logo-light.svg (light version for dark backgrounds),
+    canopy.svg (the tree's crown only, used as the blurred foreground layer in the hero),
+    mark-light-220.webp (tree and T&S for the header), favicon-*.png.
+  Photos (assets/img/): all from the Facebook page. The before and after pictures were posted as
+    two-photo collages; each was cut into its top (before) and bottom (after) photo.
+    before-tarp / after-tarp, before-ferns / after-ferns, after-house, garden-palms, garden-mulch,
+    succulents, sunset-ring. Untouched downloads are in client-sites/_originals/ts-garden-restoration/fb/
+    and the cut halves in .../split/.
+
+Films and images made for this preview with Higgsfield (22 October 2026), labelled on the page as illustrations
+  None of these show a T&S job. They are an imagined Alstonville-plateau garden at golden hour.
+  Frames: GPT Image 2.5 (high, 2K). hero-b = the hero scene; hero-a = the restored bed; overgrown-a and
+    dusk-b are edits of those two. grass-fg = the transparent foreground grass in the hero.
+  Films: MiniMax H3, 2K, 10 s, made from those frames.
+    hero-1080.mp4 / hero-720.mp4 / hero-tall.mp4 (+ posters): hero-b as both first and last frame, so it loops.
+      hero-tall is a 9:16 crop of the same film for upright phones.
+    assets/restore/w and /t: 80 frames cut from the overgrown-a -> hero-a film, scrubbed by scroll
+      (w = 1280x720, t = 540x960 crop for phones). still-end.webp is its last frame.
+    dusk-1080.mp4 / dusk-720.mp4 (+ poster): dusk-b as first and last frame, behind the closing section.
+  Untouched downloads are in client-sites/_originals/ts-garden-restoration/higgsfield/.
+  Credits spent: about 72 (images 13.75, films 3 x 20).
+
+Made for the preview
+  og.jpg (share picture, built from their own before/after photos and logo), the area sketch map (drawn from the four towns' real coordinates,
+  not to exact scale), all page wording other than the quotes above.
+
+Not confirmed with the owner
+  That T&S stands for Tammy and Simon (the review names them; the page only says the business is
+  run by them). Lawn care details, the "workplace gardens" service (from the review), green waste
+  removal (from a search snippet), that the photos are all their own jobs, the one-line service
+  descriptions. No prices, licences, insurance, years in business or review counts are claimed.
